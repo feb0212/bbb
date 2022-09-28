@@ -6,3 +6,6 @@
 |[feb0212](https://github.com/feb0212)             |                        |대학교 2학년
 
 # goals
+
+* minesp3164
+    - git에 대해 배우기
